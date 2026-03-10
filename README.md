@@ -14,4 +14,4 @@ Simulated the role of a CFO for Toyota under the 2025 “America First” polici
 
 ## Project Resources
 
-- 📑 **Presentation Slides** – [View Slides](https://github.com/vitas9313-sketch/toyota-financial-strategy-resilience/blob/main/Strategic%20Resilience-A%20Financial%20Pivot%20for%20Toyota.pdf)
+- 📑 **Presentation Slides** – [View Slides](https://github.com/vitas9313-sketch/toyota-financial-strategy-resilience/blob/main/Strategic%20Resilience%20Financial%20Pivot%20and%20Tariff%20Risk%20Mitigation%20for%20Toyota.pdf)
