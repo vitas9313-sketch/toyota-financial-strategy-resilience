@@ -1,4 +1,4 @@
-# Strategic Resilience: Financial Pivot & Tariff Risk Mitigation for Toyota
+# Strategic Financial Pivot & Tariff Risk Mitigation for Toyota
 
 ## Project Overview
 Simulated the role of a CFO for Toyota under the 2025 “America First” policies, providing quantitative analysis and actionable strategic recommendations.
